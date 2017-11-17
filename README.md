@@ -1,4 +1,4 @@
-# speechsynthesizer
+# Speech Synthesizer
 For this project I created a Speech Synthesizer python program. 
 The program  takes an input phrase and synthesises it. 
 Tasks Involved: 
